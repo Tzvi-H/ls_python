@@ -1,1 +1,1 @@
-# Exercises for Launch School Python book
+# Launch School Python Exercises
